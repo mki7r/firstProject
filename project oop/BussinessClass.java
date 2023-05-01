@@ -18,3 +18,4 @@ public class BussinessClass extends Seat {
     public void displayClass() {
     
     }
+}
