@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class EconomicClass extends Seat {
 
     public double getDiscount() {
