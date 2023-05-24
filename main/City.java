@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class City {
   private String Name;
      private String  IATACode ;
