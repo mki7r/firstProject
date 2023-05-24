@@ -1,10 +1,6 @@
 
-package com.mycompany.project;
+package edu.uqu.cs;
 
-/**
- *
- * @author saleh
- */
 public class BussinessClass extends Seat {
 
     String  BussinessCompany;
