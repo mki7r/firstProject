@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class Ticket implements SeatPriceCalcutator {
     private Flight flight;
 private Seat seat;
