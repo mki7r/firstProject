@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public abstract class Seat {
     protected int row;
     protected int col;
