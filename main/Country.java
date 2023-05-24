@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class Country {
     private String Name;
      private String  IATACode ;
