@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class Time {
         private int hour;
     private int min;
