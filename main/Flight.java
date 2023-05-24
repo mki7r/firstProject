@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class Flight {
 
     private String Flightnumber;
