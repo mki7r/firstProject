@@ -1,3 +1,5 @@
+package edu.uqu.cs;
+
 public class FirstClass extends Seat {
     String fclass;
     String privalage;
